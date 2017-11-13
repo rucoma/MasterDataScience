@@ -1,17 +1,5 @@
 # MasterDataScience
-Repositorio del master Data Science KSchool
-
-## Sub-Section
-### Sub-Sub-Section:
-
-* List1
-* List2
-* List3
-
-Una linea nueva
-
-De nuevo, una línea
-
-Nueva línea para una nueva rama
-
-Mas cambios para liarla del todo
+Master Data Science KSchool repo  
+ I'm creating  new folder for each subject of the master.  
+ Inside each folder, a README file will be created with some notes about the class.  
+ Other files and scripts will be included in the folder as well.
