@@ -1,4 +1,4 @@
-## First session of the Master in Data Science
+## First session of the Master in Data Science (GIT)
 
 ### Some resources:
 * For beginners: [https://try.github.io/levels/1/challenges/1]
