@@ -6,9 +6,9 @@
 
 ### This could be the workflow:
 ####  TO LOCAL
-`git pull`
-`git add` (filename)
-`git commit`
+`git pull`  
+`git add` (filename)  
+`git commit`  
 
 #### TO REMOTE
 `git push`  
