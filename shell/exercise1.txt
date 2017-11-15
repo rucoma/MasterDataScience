@@ -21,7 +21,11 @@ Solución:
 csvcut -d '^' -c 2,7 optd_aircraft.csv | grep '4' | sort | uniq
 
 Solución Extra:
-PROXIMAMENTE
+Creamos el fichero nMotores con el siguiente contenido:
+#! bin/bash
+echo -n "Introduce el num de motores: "
+read motores
+csvcut -d '^' -c 2,7 optd_aircraft.csv | grep $motores | sort | uniq
 
 # Ejercicio 3:
 # Con los ficheros de aerolíneas (el de optd y el fichero ref...), hacer un join.
