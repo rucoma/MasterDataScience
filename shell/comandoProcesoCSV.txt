@@ -1,0 +1,2 @@
+grep -v "hola" hola.txt
+awk -F"," '$2 != 3{print $0;}' hola.txt > hola_filtrado.txt
