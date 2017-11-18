@@ -1,0 +1,30 @@
+Que asignaturas hay?
+select distinct name from subjects;
+
+Que campos (ramas) hay en el master?
+select count(distinct field) from subjects;
+select distinct field from subjects;
+
+En que asignaturas da clase Grace Hopper?
+select distinct s.name
+from people as p
+inner join teaches as t on p.id = t.teacher_id
+inner join subjects as s on t.subject_id = s.id
+where p.name = 'Grace Hopper';
+
+Quienes son los profesores de la asignatura "Compilers"?
+Quienes son los profesores de la academia?
+Cuantos son los profesores de la academia?
+En cuantas asignaturas participa cada profesor?
+Cual es la asignatura con mas matriculados?
+Quien es el alumno matriculado en mas asignaturas?
+Quien es el alumno matriculado en mas creditos?
+Cual es la nacionalidad mas repetida entre los profesores?
+Cual es la edad media de los alumnos de "Data mining"?
+Cual es la nota media en "Algebra"?
+Cual es la nota media en las asignaturas de "cs" (Computer science)?
+Cual es la nota media en las asignaturas de "mat" (Mathematics) entre los aprobados?
+Quien es el/la alumno/a con mejor nota media?
+Sabiendo que un credito vale 30 EUR, cuanto ha ganado la academia cada anyo?
+Que profesores monopolizan asignaturas? (unicos profesores de la asignatura)
+Si los profesores ganan un 30% de los creditos que imparten, cuanto hay que pagar a cada uno?

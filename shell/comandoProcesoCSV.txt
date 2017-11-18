@@ -1,2 +1,8 @@
 grep -v "hola" hola.txt
 awk -F"," '$2 != 3{print $0;}' hola.txt > hola_filtrado.txt
+
+sort -r studies.csv | awk -F"," 'BEGIN{last=""}{if (last != $1","$2","$3){print $0;} last=$1","$2","$3;}' > studies_filt.csv
+
+### Minitutorial de awk:
+Patrón - Bloque de código / Patrón - Bloque de código
+awk -F"," '$1 == "es"{print $1","$2"?"} $1 == "jp" {print $2" ka"; print $2" masen ka"}' ejemplo.csv
