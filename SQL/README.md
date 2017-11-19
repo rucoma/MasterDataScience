@@ -28,6 +28,7 @@ Luego ya podemos entrar en psql de foma normal con nuestro usuario, que ya tendr
 ### Algunos comandos de postgres:  
 `\c` Nos conecta a una bbdd  
 `\d` Muestra las tablas que componen la bbdd a la que estamos conectados  
+`\d nombre_tabla` Nos devuelve las características de la tabla  
 `\l` lista de bases de datos  
 `\q` Salir  
 
@@ -40,4 +41,8 @@ Luego ya podemos entrar en psql de foma normal con nuestro usuario, que ya tendr
 
 # NoSQL:  
 Uno de los principales problemas de las bases de datos son los joins, ya que consumen una gran cantidad de recursos que consumen.  
-Las bases NoSQL consisten en supertablas con todos los campos
+Las bases NoSQL consisten en supertablas con todos los campos.  
+
+Algunos recursos de NoSQL:  
+* [Más sencillo](https://academy.datastax.com/resources/ds201-foundations-apache-cassandra)  
+* [Solución completa](https://academy.datastax.com/resources/ds220-data-modeling)
