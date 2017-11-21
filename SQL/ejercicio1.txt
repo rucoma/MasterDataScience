@@ -128,11 +128,12 @@ GROUP BY st.year
 ;
 
 Que profesores monopolizan asignaturas? (unicos profesores de la asignatura)
-SELECT p.name, s.name
-FROM people AS p
-INNER JOIN teaches AS t ON p.id = t.teacher_id
-INNER JOIN subjects AS S on t.subject_id = s.id
--- Aqui me falta saber como mostrar los unicos profesores
+SELECT s.name, p.name, COUNT(*)
+FROM subjects AS s
+INNER JOIN teaches AS t ON s.id = t.subject_id
+INNER JOIN people AS p ON t.teacher_id = p.id
+GROUP BY s.name, p.name
+HAVING COUNT(*) = 3
 ;
 
 Si los profesores ganan un 30% de los creditos que imparten, cuanto hay que pagar a cada uno?
