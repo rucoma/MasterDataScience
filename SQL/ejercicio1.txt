@@ -96,19 +96,19 @@ GROUP BY s.name
 ;
 
 Cual es la nota media en las asignaturas de "cs" (Computer science)?
-SELECT s.field, AVG(st.mark)
-FROM studies AS st
-INNER JOIN subjects AS s ON st.subject_id = s.id
+SELECT s.name, AVG(st.mark)
+FROM subjects AS s
+INNER JOIN studies AS st ON s.id = st.subject_id
 WHERE s.field = 'cs'
-GROUP BY s.field
+GROUP BY s.name
 ;
 
 Cual es la nota media en las asignaturas de "mat" (Mathematics) entre los aprobados?
-SELECT s.field, AVG(st.mark)
-FROM studies AS st
-INNER JOIN subjects AS s ON st.subject_id = s.id
+SELECT s.name, AVG(st.mark)
+FROM subjects AS s
+INNER JOIN studies AS st ON s.id = st.subject_id
 WHERE s.field = 'mat' AND st.mark > 5
-GROUP BY s.field
+GROUP BY s.name
 ;
 
 Quien es el/la alumno/a con mejor nota media?
