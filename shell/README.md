@@ -12,3 +12,10 @@ Installed from pip
 * [http://linuxcommand.org/lc3_wss0010.php]  
 * [TutorialsPoint](https://www.tutorialspoint.com/awk/awk_workflow.htm)
 * [IBM](https://www.ibm.com/developerworks/library/l-awk1/index.html)
+
+### Sustituir en un fichero desde shell  
+Sustituir ', ' por ',':  
+`sed 's/, /,/g'`
+
+### Instalar consola en Windows  
+Cygwin
