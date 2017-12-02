@@ -22,13 +22,21 @@ Para crear uno nuevo si tenemos el fichero: `conda env create -f environment.yml
 
 ## Profiling  
 pip install line-profiler
+conda install memory_profiler (para profiling de memoria)
 ## Debugging  
 pip install ipdb  
 kernprof --line-by-line ejemplo_profiling.py  
 python -m line_profiler ejemplo_profiling.py.lprof  
 
 Instalar nuevas librerías: `conda install matplotlib`  
-Si la librería no stá en conda podemos instalar la librería mediante pip  
+Si la librería no está en conda podemos instalar la librería mediante pip  
+
+La librería para leer ficheros Excel es xlrd  
+
+## Decoradores  
+Permiten ejecutar código antes y después de una llamada a una función. Se usa el símbolo `@nombre_funcion`  
+
+## Formato fichero HDF5  
 
 Algebra lineal:  
 Youtube [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  

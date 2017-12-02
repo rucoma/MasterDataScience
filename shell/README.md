@@ -19,3 +19,6 @@ Sustituir ', ' por ',':
 
 ### Instalar consola en Windows  
 Cygwin
+
+### htop  
+Equivalente al monitor del sistema, pero más detallado.  
