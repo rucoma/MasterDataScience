@@ -22,3 +22,12 @@ Cygwin
 
 ### htop  
 Equivalente al monitor del sistema, pero más detallado.  
+
+### Configurar shell zsh
+Si queremos convertir a Zsh en nuestra shell principal lo haremos mediante la siguiente orden:  
+`$ chsh -s /bin/zsh`  
+
+Editar el fichero .zshrc:  
+* Cambiar el tema:  
+  ZSH_THEME="agnoster"  
+*
