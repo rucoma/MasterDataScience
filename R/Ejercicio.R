@@ -3,7 +3,7 @@ library(tidyverse)
 
 system.time(
   {
-    path <- './Dropbox/MOOCs/KSCHOOL/DATA SCIENCE/R/salesForcasting/'
+    path <- './salesForcasting/'
 
     train <- fread(input = paste0(path, 'train_sample.csv'))
     stores <- fread(input = paste0(path, 'stores.csv'))
