@@ -5,7 +5,7 @@
 
 ## Recursos para publicación de documentos y aplicaciones en R
 #### Markdown
-* [Flexboard](http://rmarkdown.rstudio.com/flexdashboard/): Generar RMarkdown como dashboards
+* [Flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/): Generar RMarkdown como dashboards
 * [Bookdown](https://github.com/rstudio/bookdown): Generar libros a partir de Markdown
 * [reveal.js](http://rmarkdown.rstudio.com/revealjs_presentation_format.html): Generar presentaciones a partir de RMarkdown
 
