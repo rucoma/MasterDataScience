@@ -7,6 +7,7 @@
 #### Markdown
 * [Flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/): Generar RMarkdown como dashboards
 * [Bookdown](https://github.com/rstudio/bookdown): Generar libros a partir de Markdown
+* [Blogdown](https://bookdown.org/yihui/blogdown/): Generar blogs a partir de RMarkdown
 * [reveal.js](http://rmarkdown.rstudio.com/revealjs_presentation_format.html): Generar presentaciones a partir de RMarkdown
 
 #### Shiny
