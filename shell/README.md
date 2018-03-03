@@ -31,3 +31,6 @@ Editar el fichero .zshrc:
 * Cambiar el tema:  
   ZSH_THEME="agnoster"  
 *
+
+### Libros:
+* [Data science from the command line](https://www.datascienceatthecommandline.com/)

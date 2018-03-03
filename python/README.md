@@ -43,3 +43,6 @@ Youtube [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 Ejercicios resueltos de python:  
 (https://www.w3resource.com/python-exercises/)
+
+## Recursos:  
+* [Pyton Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/)
