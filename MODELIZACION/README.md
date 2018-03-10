@@ -1,2 +1,40 @@
-### Recursos  
-* HH
+## Recursos
+* [Guardar modelos para reutilizar](http://scikit-learn.org/stable/modules/model_persistence.html)
+* [Caso práctico de ML Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques#tutorials)
+* [Mapa conceptual de los modelos](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* [Movie Lens dataset](https://grouplens.org/datasets/movielens/)
+* [Canal de Youtube AMP Tech - Machine learning](https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+* [Notebooks de estadística y ML](https://sebastianraschka.com/notebooks/python-notebooks.html)
+
+## Metodologías:
+### Supervised:
+#### Linear models:
+##### Regresión lineal:
+Es un regresor
+* Simple o múltiple
+* Son parte de los GLM (*Generalized Linear Models*)
+
+##### Regresión logística:
+Es un clasificador
+
+#### SVM (Supor Vector Machines)
+##### SVC
+Es un clasificador. Tiene un parámetro **C** y un **kernel** para optimizar. Útil cuando tenemos muchas variales pero pocos datos.
+
+##### SVR
+
+#### DECISION TREES
+#### RANDOM FORESTS
+Puede ser un regresor y un clasificador.
+#### GBT
+#### DEEP LEARNING
+
+### Unsupervised:
+#### PCA (Principal Components Analysis)
+Lo usamos para simplificar las variables del dataset
+#### CLUSTERING
+Lo usamos para encontrasr grupos dentro del dataset. Podemos usar los grupos descubiertos posteriorment en un supervised model.
+
+### Recomendadores:
+Modelos aparte.
