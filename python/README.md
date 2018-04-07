@@ -46,3 +46,4 @@ Ejercicios resueltos de python:
 
 ## Recursos:  
 * [Pyton Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [The hacker guide to Python](https://thehackerguidetopython.com/)

@@ -6,6 +6,7 @@
 * [Canal de Youtube AMP Tech - Machine learning](https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 * [Notebooks de estadística y ML](https://sebastianraschka.com/notebooks/python-notebooks.html)
+* [Goole Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 ## Metodologías:
 ### Supervised:
@@ -38,3 +39,10 @@ Lo usamos para encontrasr grupos dentro del dataset. Podemos usar los grupos des
 
 ### Recomendadores:
 Modelos aparte.
+
+### NLP (Natural Language Processing)
+* [Google Cloud NPL](https://cloud.google.com/natural-language/?hl=es)
+* [Google API Speech](https://cloud.google.com/speech/?hl=es)
+* [Minsait](https://www.minsait.com/es)
+* [Word2Vec](https://en.wikipedia.org/wiki/Word2vec)
+*
