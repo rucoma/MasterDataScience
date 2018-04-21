@@ -1,4 +1,13 @@
 ## Recursos para el TFM
+### [Google Scholar](https://scholar.google.es)
+### Algunas ideas para el TFM:  
+* [Predicting future hourly residential electrical consumption: A machine learning
+case study](http://web.eecs.utk.edu/~leparker/publications/Energy-Buildings-2012.pdf)
+* [Predicting Hourly Residential
+Energy Consumption using
+Random Forest and Support
+Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01.pdf)
+
 ### ML:  
 * Una serie de artículos desarrollando diferentes metodologías de ML: [Joaquin_AR](https://rpubs.com/Joaquin_AR)
 * Tutorial de `caret`: [Yet Another Caret Workshop](https://www.gokhan.io/post/caret-workshop/)
