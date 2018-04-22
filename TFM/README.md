@@ -17,3 +17,4 @@ Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01
 * Trucos para RMarkdown: [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/)
 * Más recursos para RMarkdown: [R Markdown for documents with logos, watermarks, and corporate styles](http://ellisp.github.io/blog/2017/09/09/rmarkdown)
     + [Ejemplo](https://raw.githubusercontent.com/ellisp/rmarkdown-corporate-eg/master/report-1/report.Rmd)
+    + Prueba de conexión a GitHub
