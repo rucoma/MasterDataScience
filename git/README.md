@@ -3,6 +3,7 @@
 ### Some resources:
 * For beginners: [https://try.github.io/levels/1/challenges/1]
 * A little more advanced: [https://learngitbranching.js.org/]
+* [Using SSH keys with GitHub and Atom](https://technologyand.me/2016/08/29/git-with-atom/#addkeys)
 
 ### This could be the workflow:
 ####  TO LOCAL
