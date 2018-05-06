@@ -24,3 +24,9 @@ Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01
 
 ### Dropbox y python
 * [Código](http://www.xavierdupre.fr/blog/2015-01-20_nojs.html)
+
+### Dataset usedCars (Kaggle)
+* [Página del proyecto](https://www.kaggle.com/orgesleka/used-cars-database)
+* [RandomForestRegressor test 0.93](https://www.kaggle.com/milosev/randomforestregressor-test-0-93)
+* [Price prediction for a single model](https://www.kaggle.com/rajchoul/price-prediction-for-a-single-model)
+* [Used cars data exploration and price prediction](https://www.kaggle.com/blankaf/used-cars-data-exploration-and-price-prediction)
