@@ -30,3 +30,4 @@ Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01
 * [RandomForestRegressor test 0.93](https://www.kaggle.com/milosev/randomforestregressor-test-0-93)
 * [Price prediction for a single model](https://www.kaggle.com/rajchoul/price-prediction-for-a-single-model)
 * [Used cars data exploration and price prediction](https://www.kaggle.com/blankaf/used-cars-data-exploration-and-price-prediction)
+* [Shapefile de codigos postales de Alemania](https://www.suche-postleitzahl.org/downloads)
