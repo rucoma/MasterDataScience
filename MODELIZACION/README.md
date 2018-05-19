@@ -7,6 +7,7 @@
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 * [Notebooks de estadística y ML](https://sebastianraschka.com/notebooks/python-notebooks.html)
 * [Goole Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+* [Completo repositorio de técnicas de modelización con R](https://rpubs.com/Joaquin_AR)
 
 ## Metodologías:
 ### Supervised:
@@ -30,6 +31,9 @@ Es un clasificador. Tiene un parámetro **C** y un **kernel** para optimizar. Ú
 Puede ser un regresor y un clasificador.
 #### GBT
 #### DEEP LEARNING
+
+### Naive Bayes
+[Naive Bayes in R Tutorial](http://www.learnbymarketing.com/tutorials/naive-bayes-in-r/)
 
 ### Unsupervised:
 #### PCA (Principal Components Analysis)
