@@ -32,6 +32,7 @@ Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01
 * [Used cars data exploration and price prediction](https://www.kaggle.com/blankaf/used-cars-data-exploration-and-price-prediction)
 * [Shapefile de codigos postales de Alemania](https://www.suche-postleitzahl.org/downloads)  
 * [Shapefile de divisiones administrativas de Alemania](https://www.zensus2011.de/EN/Media/Background_material/Background_material_node.html)
+* [Otros ficheros shapefile](https://gadm.org/download_country_v3.html)
 
 ### Codigos postales Alemania
 * [Listado de CP por prefijo. Se podría scrapear](http://www.places-in-germany.com/postal-codes-germany.html)
