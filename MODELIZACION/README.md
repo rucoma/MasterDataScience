@@ -8,6 +8,7 @@
 * [Notebooks de estadística y ML](https://sebastianraschka.com/notebooks/python-notebooks.html)
 * [Goole Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [Completo repositorio de técnicas de modelización con R](https://rpubs.com/Joaquin_AR)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured)
 
 ## Metodologías:
 ### Supervised:
