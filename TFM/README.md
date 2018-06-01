@@ -40,3 +40,7 @@ Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01
 * [Descarga de CSV](https://www.aggdata.com/free/germany-postal-codes)
 * [CSV muy completo](https://raw.githubusercontent.com/TrustChainEG/postal-codes-json-xml-csv/master/data/DE/zipcodes.de.csv)
 * [Codificación de carácteres en alemán](https://stackoverflow.com/questions/423693/how-can-i-properly-display-german-characters-in-html)
+
+### One hot encoding
+### Pipeline para hacer todo el proceso
+### Flask para la parte interactiva
