@@ -43,5 +43,12 @@ Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01
 * [Codificación de carácteres en alemán](https://stackoverflow.com/questions/423693/how-can-i-properly-display-german-characters-in-html)
 
 ### One hot encoding
+* [One Hot encoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)
+* [Label encoding across multiple columns in scikit-learn](https://stackoverflow.com/questions/24458645/label-encoding-across-multiple-columns-in-scikit-learn)
+* []()
 ### Pipeline para hacer todo el proceso
+* [Scikit-Learn Pipeline Examples](http://queirozf.com/entries/scikit-learn-pipeline-examples)
+* [sklearn.pipeline.Pipeline](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+* [Automate Machine Learning Workflows with Pipelines in Python and scikit-learn](https://machinelearningmastery.com/automate-machine-learning-workflows-pipelines-python-scikit-learn/)
+
 ### Flask para la parte interactiva
