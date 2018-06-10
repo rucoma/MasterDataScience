@@ -52,3 +52,6 @@ Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01
 * [Automate Machine Learning Workflows with Pipelines in Python and scikit-learn](https://machinelearningmastery.com/automate-machine-learning-workflows-pipelines-python-scikit-learn/)
 
 ### Flask para la parte interactiva
+
+### CategoricalEncoder
+`pip install https://github.com/scikit-learn/scikit-learn/archive/master.zip`
