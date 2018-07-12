@@ -31,7 +31,7 @@ Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01
 * [Price prediction for a single model](https://www.kaggle.com/rajchoul/price-prediction-for-a-single-model)
 * [Used cars data exploration and price prediction](https://www.kaggle.com/blankaf/used-cars-data-exploration-and-price-prediction)
 * [RandomForestRegressor test 0.93](https://www.kaggle.com/milosev/randomforestregressor-test-0-93/notebook)
-* [Shapefile de codigos postales de Alemania](https://www.suche-postleitzahl.org/downloads)  
+* [Shapefile de codigos postales de Alemania](https://www.suche-postleitzahl.org/downloads)
 * [Shapefile de divisiones administrativas de Alemania](https://www.zensus2011.de/EN/Media/Background_material/Background_material_node.html)
 * [Otros ficheros shapefile](https://gadm.org/download_country_v3.html)
 
@@ -52,6 +52,10 @@ Vector Regression](https://kth.diva-portal.org/smash/get/diva2:932582/FULLTEXT01
 * [Automate Machine Learning Workflows with Pipelines in Python and scikit-learn](https://machinelearningmastery.com/automate-machine-learning-workflows-pipelines-python-scikit-learn/)
 
 ### Flask para la parte interactiva
+* [El Mega Tutorial de Flask, Parte I: ](https://lomelisan.wordpress.com/2015/05/29/mega-tutorial-de-flask-python-1era-parte-hola-mundo/)
+* [Primera aplicacion web con Python y Flask (Tutorial para principiantes)](http://www.pythondiario.com/2016/10/primera-aplicacion-web-con-python-y.html)
+* [Aprende Flask Parte 1 - Introducción y Hola Mundo](https://geekytheory.com/aprende-flask-introduccion-y-hola-mundo)
+* [TUTORIAL DE FLASK PARA PRINCIPIANTES](https://decodigoyalgomas.com/tutorial-flask-basico/)
 
 ### CategoricalEncoder
 `pip install https://github.com/scikit-learn/scikit-learn/archive/master.zip`
