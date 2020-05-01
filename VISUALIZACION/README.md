@@ -24,3 +24,11 @@
 * [Instalar RStudio-server](https://gist.github.com/JohnMount/3694b155d2d184d263e4e34c6ae4a943)  
 * [Running RStudio Server on Amazon EC2](https://indicatrix.org/running-rstudio-server-on-amazon-ec2-da812413c48b)  
 ### Shiny-server  
+*  [How to host an R Shiny App on AWS cloud in 7 simple steps](https://towardsdatascience.com/how-to-host-a-r-shiny-app-on-aws-cloud-in-7-simple-steps-5595e7885722)  
+* [Deploying an R Shiny App to AWS](https://tm3.ghost.io/2017/12/31/deploying-an-r-shiny-app-to-aws/)  
+* [Shiny Server on AWS](https://www.r-bloggers.com/shiny-server-on-aws/)  
+* [The ultimate guide to deploy a Shiny app on AWS](https://www.charlesbordet.com/en/guide-shiny-aws/#)  
+
+### Intercambiar ficheros entre local y AWS  
+* [Files exchanging between AWS EC2 and your local machine](https://medium.com/@dearsikandarkhan/files-copying-between-aws-ec2-and-local-d07ed205eefa)  
+* Filezilla  
