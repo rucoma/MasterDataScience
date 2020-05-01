@@ -16,3 +16,11 @@
 * [Repositorio OneTandem: Curso de D3js](https://github.com/OneTandem/cursD3)
 * [MakeOverMonday](http://www.makeovermonday.co.uk/)
 * [OCDE better life index](http://www.oecdbetterlifeindex.org/es)
+
+## Levantar una instancia EC2 para montar RStudio-server y Shiny-server  
+### AWS  
+* Una vez montada la instancia hay que conectar vía SSH o PUTTY. `ssh -i ~/.ssh/RStudio.pem ubuntu@ec2-34-219-176-33.us-west-2.compute.amazonaws.com`.  
+### RStudio-server  
+* [Instalar RStudio-server](https://gist.github.com/JohnMount/3694b155d2d184d263e4e34c6ae4a943)  
+* [Running RStudio Server on Amazon EC2](https://indicatrix.org/running-rstudio-server-on-amazon-ec2-da812413c48b)  
+### Shiny-server  
