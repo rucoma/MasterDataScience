@@ -14,4 +14,6 @@
 * [R Markdown for documents with logos, watermarks, and corporate styles](http://freerangestats.info/blog/2017/09/09/rmarkdown)
 
 #### Shiny
-Un tutorial completo de [Shiny](https://shiny.rstudio.com/tutorial/)
+* Un tutorial completo de [Shiny](https://shiny.rstudio.com/tutorial/)
+* Manual de Hadley Wickham, [Mastering Shiny](https://mastering-shiny.org/index.html) 
+*

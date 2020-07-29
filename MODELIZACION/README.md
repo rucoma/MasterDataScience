@@ -9,6 +9,13 @@
 * [Goole Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [Completo repositorio de técnicas de modelización con R](https://rpubs.com/Joaquin_AR)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured)
+* [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
+* [Machine Learning for Humans](https://medium.com/machine-learning-for-humans)
+* [Tidymodels](https://www.tidymodels.org/)
+* [THE ART OF MACHINE LEARNING](http://heather.cs.ucdavis.edu/artofml/draft.pdf)
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+* [Recursos de ML](https://github.com/uo-ec607)
+* [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
 
 ## Metodologías:
 ### Supervised:
@@ -17,6 +24,9 @@
 Es un regresor
 * Simple o múltiple
 * Son parte de los GLM (*Generalized Linear Models*)
+
+#### Regresión logística:
+[Logistic Regression — Explained](https://towardsdatascience.com/logistic-regression-explained-593e9ddb7c6c)
 
 ##### Regresión logística:
 Es un clasificador
@@ -32,6 +42,8 @@ Es un clasificador. Tiene un parámetro **C** y un **kernel** para optimizar. Ú
 Puede ser un regresor y un clasificador.
 #### GBT
 #### DEEP LEARNING
+#### TIME SERIES
+* [TIME SERIES ANALYSIS WITH TIDYMODELS](https://www.business-science.io/code-tools/2020/06/29/introducing-modeltime.html)
 
 ### Naive Bayes
 [Naive Bayes in R Tutorial](http://www.learnbymarketing.com/tutorials/naive-bayes-in-r/)
@@ -50,4 +62,3 @@ Modelos aparte.
 * [Google API Speech](https://cloud.google.com/speech/?hl=es)
 * [Minsait](https://www.minsait.com/es)
 * [Word2Vec](https://en.wikipedia.org/wiki/Word2vec)
-*
