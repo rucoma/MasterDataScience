@@ -16,6 +16,7 @@
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
 * [Recursos de ML](https://github.com/uo-ec607)
 * [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
+* [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Data Science PDF](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7)
 
 ## Metodologías:
 ### Supervised:
@@ -25,11 +26,8 @@ Es un regresor
 * Simple o múltiple
 * Son parte de los GLM (*Generalized Linear Models*)
 
-#### Regresión logística:
-[Logistic Regression — Explained](https://towardsdatascience.com/logistic-regression-explained-593e9ddb7c6c)
-
 ##### Regresión logística:
-Es un clasificador
+[Logistic Regression — Explained](https://towardsdatascience.com/logistic-regression-explained-593e9ddb7c6c)
 
 #### SVM (Supor Vector Machines)
 ##### SVC
