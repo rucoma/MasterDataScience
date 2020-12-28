@@ -16,4 +16,3 @@
 #### Shiny
 * Un tutorial completo de [Shiny](https://shiny.rstudio.com/tutorial/)
 * Manual de Hadley Wickham, [Mastering Shiny](https://mastering-shiny.org/index.html) 
-*
