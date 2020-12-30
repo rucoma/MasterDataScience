@@ -51,6 +51,7 @@ Puede ser un regresor y un clasificador.
 Lo usamos para simplificar las variables del dataset
 #### CLUSTERING
 Lo usamos para encontrasr grupos dentro del dataset. Podemos usar los grupos descubiertos posteriorment en un supervised model.
+* [The complete guide to clustering analysis: k-means and hierarchical clustering by hand and in R](https://statsandr.com/blog/clustering-analysis-k-means-and-hierarchical-clustering-by-hand-and-in-r/)
 
 ### Recomendadores:
 Modelos aparte.
